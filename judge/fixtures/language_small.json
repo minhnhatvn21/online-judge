@@ -243,7 +243,7 @@
         "model": "judge.language",
         "pk": 16,
         "fields": {
-            "key": "SRATCH",
+            "key": "SCAT",
             "name": "Scratch",
             "short_name": null,
             "common_name": "Scratch",
@@ -251,7 +251,7 @@
             "pygments": "text",
             "template": "",
             "info": "",
-            "description": "Check options: `scratch-run --check`",
+            "description": "scratch",
             "extension": "sb3"
         }
     }

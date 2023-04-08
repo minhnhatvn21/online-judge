@@ -243,9 +243,9 @@
         "model": "judge.language",
         "pk": 16,
         "fields": {
-            "key": "SCAT",
+            "key": "SRATCH",
             "name": "Scratch",
-            "short_name": null,
+            "short_name": "SCAT",
             "common_name": "Scratch",
             "ace": "text",
             "pygments": "text",

@@ -243,7 +243,7 @@
         "model": "judge.language",
         "pk": 16,
         "fields": {
-            "key": "SB3",
+            "key": "SRATCH",
             "name": "Scratch",
             "short_name": null,
             "common_name": "Scratch",
